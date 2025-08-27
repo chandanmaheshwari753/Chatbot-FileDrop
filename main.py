@@ -14,10 +14,10 @@ import uuid
 
 # # ------------------------ Config ------------------------
 
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # Load environment variables
-load_dotenv()
+# load_dotenv()
 
 # ------------------------ Config ------------------------
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
