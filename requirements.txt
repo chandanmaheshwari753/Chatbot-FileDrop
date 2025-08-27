@@ -1,8 +1,10 @@
-streamlit
+fastapi
+uvicorn
+pydantic
 faiss-cpu
 requests
 sentence-transformers
 PyPDF2
 pdf2image
-pillow
+Pillow
 pytesseract
